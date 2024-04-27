@@ -17,6 +17,6 @@
     sortInput.setAttribute("name", "sort");
     sortInput.setAttribute("value", "seed");
 
-    document.querySelector('form[action="https://www3.yggtorrent.qa/engine/search"] > div').appendChild(sortInput);
+    document.querySelector('form[action*="/engine/search"] > div').appendChild(sortInput);
 
 })();
