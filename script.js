@@ -4,7 +4,7 @@
 // @version      2024-04-24
 // @description  Ajoute automatiquement le paramètre sort=seed quand on fait une recherche
 // @author       github@S1NJED
-// @include      https://*.yggtorrent.tld/*
+// @include      https://*.ygg.tld/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
